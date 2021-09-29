@@ -1,0 +1,30 @@
+name: Let It Be;
+artis: The Beatles;
+name: Love Me Do;
+artis: The Beatles;
+
+name: Bohemian Rhapsody;
+artis: Queen;
+name:  Love of my life;
+artis: Queen;
+
+name: Come As You Are;
+artis: Nirvana;
+name:  Rape me;
+artis: Nirvana;
+
+name: Dont Look Back In Anger;
+artis: Oasis;
+name:  Wonderwall;
+artis: Oasis;
+
+
+name: Everybody Hurts;
+artis: R.E.M;
+name:  Losing My Religion;
+artis: R.E.M;
+
+name: Californication;
+artis: Red Hot Chili Peppers;
+name:  Under the bridge ;
+artis: Red Hot Chili Peppers;
